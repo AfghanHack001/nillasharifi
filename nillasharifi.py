@@ -14,13 +14,13 @@
   $ pip install bs4
   $ pip install npm
   $ pip install future
-  $ git clone https://github.com/somirit/clonerit.git
+  $ git clone https://github.com/nillsharifi1/nillasharifi1.git
   ```
 
-- Now go to cloned directory and run `clonerit.py` -
+- Now go to cloned directory and run `nilla.py` -
   ```
-  $ cd clonerit
-  $ python clonerit.py
+  $ cd nilla
+  $ python nillasharifi1.py
   ```
 
 ### Disclaimer
@@ -28,4 +28,4 @@
   This Tool is made for Educational Purpose only !
   Author will not be Responsible for any Misuse of this Toolkit !
 
-  © SomirIT Pvt. Ltd. 2022
+  © nilla Pvt. Ltd. 2022
